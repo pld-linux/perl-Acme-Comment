@@ -8,13 +8,13 @@
 %define	pnam	Comment
 Summary:	Acme::Comment
 Name:		perl-Acme-Comment
-Version:	1.02
+Version:	1.04
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Acme/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ff89fa9ae4346027732ff68a0c7dc2d0
+# Source0-md5:	b005f8a9849949b8a3b9392cd3fd90bd
 URL:		http://search.cpan.org/dist/Acme-Comment/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
