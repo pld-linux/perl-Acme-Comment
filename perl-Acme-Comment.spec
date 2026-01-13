@@ -8,7 +8,7 @@
 Summary:	Acme::Comment
 Name:		perl-Acme-Comment
 Version:	1.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
